@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921554877512",
+    "project_id": "blinkbuy6",
+    "storage_bucket": "blinkbuy6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921554877512:android:a0b5a09d0842f7b4c46c7d",
+        "android_client_info": {
+          "package_name": "com.example.blinkbuy6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiViBDjOtJz9tI-4MxW6kNpOCCloCGuMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

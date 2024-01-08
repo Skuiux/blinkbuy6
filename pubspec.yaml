@@ -1,0 +1,72 @@
+name: blinkbuy6
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  curved_navigation_bar: ^1.0.3
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_core: ^2.24.2
+  flutter_stripe: ^10.0.0
+  http: ^1.1.2
+  shared_preferences: ^2.2.2
+  random_string: ^2.3.1
+  image_picker: ^1.0.6
+  firebase_storage: ^11.6.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/3509263.jpg
+    - images/7069728_3412435.jpg
+    - images/8392610_3905230.jpg
+    - images/burger.jpg
+    - images/burger2.jpg
+    - images/icecream.jpg
+    - images/icecream2.jpg
+    - images/logo.jpeg
+    - images/pizza.jpg
+    - images/pizza2.jpg
+    - images/salad.jpg
+    - images/salad2.jpg
+    - images/wallet.png
+    - images/boy.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Black.ttf
+        - asset: fonts/Poppins-BlackItalic.ttf
+        - asset: fonts/Poppins-Bold.ttf
+        - asset: fonts/Poppins-BoldItalic.ttf
+        - asset: fonts/Poppins-ExtraBold.ttf
+        - asset: fonts/Poppins-ExtraBoldItalic.ttf
+        - asset: fonts/Poppins-ExtraLight.ttf
+        - asset: fonts/Poppins-ExtraLightItalic.ttf
+        - asset: fonts/Poppins-Italic.ttf
+        - asset: fonts/Poppins-Light.ttf
+        - asset: fonts/Poppins-LightItalic.ttf
+        - asset: fonts/Poppins-Medium.ttf
+        - asset: fonts/Poppins-MediumItalic.ttf
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-SemiBold.ttf
+        - asset: fonts/Poppins-SemiBoldItalic.ttf
+        - asset: fonts/Poppins-Thin.ttf
+        - asset: fonts/Poppins-ThinItalic.ttf
